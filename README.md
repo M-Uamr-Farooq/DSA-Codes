@@ -1,2 +1,2 @@
 # DSA-Codes
-this is first git repository of Shani
+This is first git repository of Shani.
